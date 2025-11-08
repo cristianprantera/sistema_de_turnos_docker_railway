@@ -1,4 +1,3 @@
-````markdown
 # 🩺 Sistema de Turnos Médicos
 
 Aplicación web para la gestión de turnos médicos desarrollada con **Spring Boot 3, Java 21 y PostgreSQL**.  
@@ -69,5 +68,3 @@ Usando los mismos usuarios de prueba.
 
 **Cristian Prantera**
 [https://github.com/cristianprantera](https://github.com/cristianprantera)
-
-```
